@@ -1,0 +1,148 @@
+#main-body{
+    width: 100%;
+    background-color: #adb7ff ;
+    height: 100%; }
+
+
+    .topnav {
+        background-color: #1e2136;
+        overflow: hidden;
+        width: 80%;
+        margin-left: 10%;
+    }
+    
+      
+      /* Style the links inside the navigation bar */
+    .topnav a {
+        float: left;
+        color: #dee3ff;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px; }
+      
+      /* Change the color of links on hover */
+    .topnav a:hover {
+        background-color: rgb(191, 204, 255);
+        color: black; }
+        .top-section-contact{
+            width: 80%;
+            margin-left: 10%;
+            background-color:rgb(11, 11, 65);
+            height: auto;
+
+        }
+         .left-top-section{
+            width: 50%;
+            height: 100%;
+            background-color: rgb(173, 186, 255);
+            float: left; }
+        
+        .right-top-section{
+            width: 50%;
+            float: right;
+            background-color: rgb(173, 186, 255);
+            height: 100%;
+        /* margin-left: 10%; */
+     }
+        
+        .name{
+            margin-top: 10%;
+            margin-left: 15%;
+            font-size: 150%;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            /* line-height: 10px; */
+        }  
+        
+    .sub-heading{
+            margin-left: 15%; }
+        
+    h2{
+            float: right;
+            margin-right: 35%;
+            margin-top: 10%;
+            /* line-height: 57%; */
+         }
+        
+        .contact-details{
+            float: right;
+            margin-right: 20%; }
+
+
+
+
+
+
+
+
+
+
+
+            a{
+                color: black;
+                text-decoration: none; }
+            
+            .main-section{
+                height: 7%;
+                width: 80%;
+                margin-left: 10%; }
+            
+            .left-main-section{
+                width: 40%;
+                float: left;
+                height: 100%;
+                /* background-color: rgb(191, 204, 255);  */
+                background-color: #6f76aa;
+            }
+
+            
+            .right-main-section{
+                width: 60%;
+                float: right;
+                height: 100%;
+                /* background-color: rgb(191, 204, 255);  */
+                background-color: red;
+            }
+
+
+
+
+
+
+
+
+
+            h3{
+                font-size: 150%;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                margin-left: 15%;
+                color: rgb(30, 33, 54);}
+            .main-section-experience{
+                height: 23%;
+                width: 80%;
+                margin-left: 10%;
+                background-color: rgb(191, 204, 255);
+            }
+                
+                .main-paragraph{
+                    margin-left: 20px;
+                    margin-right: 50px;
+                    margin-top: 40px; }
+                
+                .left-experience-section{
+                    width: 40%;
+                    float: left;
+                    /* height: 570px; */
+                    background-color: rgb(191, 204, 255); }
+                
+                .right-experience-section{
+                    width: 60%;
+                    float: right;
+                    /* height: 570px; */
+                    background-color: rgb(191, 204, 255); }
+
+            
+
+
+            
+           

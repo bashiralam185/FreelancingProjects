@@ -1,0 +1,146 @@
+body{
+    height: 1300px;
+    background-color: rgb(255, 255, 255);
+}
+p{
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+h4{
+    margin-left: 15%;
+}
+h5{
+    margin-left: 35%;
+    line-height: 4px;
+    font-size: 100%;
+}
+.main-page{
+    height: 1300px;
+    width: 100%;
+}
+
+/* left section */
+.left-section{
+    width: 40%;
+    height: 1300px;
+    background-color: rgb(228, 225, 225);
+    float: left;
+}
+.right-section{
+    width: 60%;
+    height:1300px;
+    /* background-color: blue; */
+    float: right;
+}
+.image-section{
+    width: 100%;
+    height: 13%;
+    /* background-color: black; */
+    margin-top: 3%;
+}
+.image-profile{
+    width: 25%;
+    height: 90%;
+    margin-left: 35%;
+    /* border: 5px solid black; */
+}
+.name-section{
+    width: 100%;
+    height: 10%;
+    /* background-color: blanchedalmond; */
+}
+.name{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 500%;
+    line-height: 7px;
+}
+h2{
+    text-align: center;
+}
+
+.contact-section{
+    width: 100%;
+    height: 15%;
+    /* background-color: aqua; */
+}
+
+fieldset{
+    width: 50%;
+    margin-left: 22%;
+    margin-top: 3%;
+}
+legend{
+    text-align: center;
+    font-weight: bold;
+}
+.profile-section{
+    width: 100%;
+    height: 24%;
+    /* background-color: blueviolet; */
+}
+.profile-name{
+    text-align: center;
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.skills{
+    width: 100%;
+    height: 27%;
+    /* background-color: chartreuse; */
+}
+.left-skill{
+    width: 50%;
+    height: 80%;
+    /* background-color: blue; */
+    float: left;
+}
+.right-skill{
+    width: 50%;
+    height: 80%;
+    float: right;
+}
+
+
+
+
+
+/* right section */
+.experience-section{
+    width: 100%;
+    height: 90%;
+    /* background-color: violet; */
+}
+.experience{
+    /* font-size: larger; */
+    /* margin-left: 6%; */
+    text-align: center;
+    font-size: 300%;
+    line-height: 7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.organization{
+    text-align: left;
+    margin-left: 7%;
+    line-height: 3px;
+}
+.sub-organization{
+    width: 100%;
+    height: 2%;
+    line-height: 3px;
+    /* background-color:black; */
+}
+
+.position{
+    width: 50%;
+    height:100%;
+    float: left;
+}
+.date{
+    width: 50%;
+    height:100%;
+    float:right;
+}
