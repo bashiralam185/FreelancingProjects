@@ -1,0 +1,77 @@
+
+
+
+p{
+    line-height: 4px;
+}
+section{
+    width: 70%;
+    margin-left: 15%;
+    border: 1px solid black;
+    height: 2530px;
+}
+.top_heading{
+    margin-top: 50px;
+    text-align: center;
+}
+.main_section{
+    width: 100%;
+}
+.left-section{
+    width: 10%;
+    float: left;
+    margin-left: 5%;
+}
+.right-section{
+    width: 79%;
+    float: right;
+}
+.first-info{
+    width: 77%;
+    margin-left: 21%;
+}
+
+
+
+
+
+.education-section{
+    width: 100%;
+    /* background-color: aqua; */
+    height: 80px;
+}
+
+.second-info{
+    width: 100%;
+    /* background-color: aqua; */
+    height: 70px;
+}
+.second-info-long{
+    width: 100%;
+    height: 130px;
+    /* background-color: red; */
+}
+.second-info-left{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    /* background-color: red; */
+}
+.second-info-right{
+    width: 64%;
+    float: right;
+    /* background-color: blue; */
+}
+
+
+
+
+.research-left{
+    width: 35%;
+    float: left;
+    margin-left: 2%;
+}
+.research-right{
+    width: 77%;
+    float: right;
+}
